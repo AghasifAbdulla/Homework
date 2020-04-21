@@ -1,0 +1,119 @@
+body {
+  background-color: whitesmoke;
+}
+
+.image {
+  width: 444px;
+  height: auto;
+}
+
+.image2 {
+  width: 300px;
+  border-radius: 5px;
+  position: absolute;
+  top: 80px;
+  right: 50px;
+}
+
+.Head-1 {
+  color: #0035ff;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+}
+
+.Head-2 {
+  color: #0035ff;
+  position: absolute;
+  top: 90px;
+  left: 107px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+}
+
+.paragraf-1 {
+  color: #0035ff;
+  position: absolute;
+  top: 400px;
+  left: 494px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+.paragraf-2 {
+  color: #0035ff;
+  position: absolute;
+  top: 430px;
+  left: 494px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+.paragraf-3 {
+  color: #0035ff;
+  position: absolute;
+  top: 460px;
+  left: 494px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+.paragraf-mini {
+  color: black;
+  position: absolute;
+  top: 530px;
+  left: 494px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+
+.about-us {
+  width: 71%;
+  position: absolute;
+}
+
+.about-us2 {
+  width: 14%;
+  position: absolute;
+  top: 100px;
+  left: 880px;
+}
+
+.paragraf-a {
+  color: orange;
+  position: absolute;
+  top: 340px;
+  left: 1050px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+.paragraf-b {
+  color: orange;
+  position: absolute;
+  top: 370px;
+  left: 1050px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+.paragraf-c {
+  color: orange;
+  position: absolute;
+  top: 400px;
+  left: 1050px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+.paragraf-minibox {
+  color: black;
+  position: absolute;
+  top: 500px;
+  left: 1050px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+/*# sourceMappingURL=style.css.map */
